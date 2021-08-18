@@ -1,3 +1,5 @@
 # edamam-react-typescript
 
-An food search recipe code for people who use edamam api with the react-typescript
+The code that Captian Cook uses for searching recipes.
+
+Maintained by - [@listentothefrog](https://github.com/listentothefrog)
